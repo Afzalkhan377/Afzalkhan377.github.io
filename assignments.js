@@ -1,21 +1,15 @@
-// assignments.js
 
-// Array of assignment objects
 const assignments = [
     {
-        title: "Assignment 1: Building a Basic Web App",
-        description: "In this assignment, I created a basic web application using HTML, CSS, and JavaScript.",
-        githubLink: "https://github.com/your-username/bu_username-assignment-1"
-    },
-    {
-        title: "Assignment 2: Data Structures and Algorithms",
-        description: "This assignment involved implementing various data structures and analyzing their efficiency.",
-        githubLink: "https://github.com/your-username/bu_username-assignment-2"
-    },
-    // Add more assignments here as needed
+        title: "Assignment 0: Git Instructions",
+        description: "In this assignment, I created a basic personal website using HTML, CSS, and JavaScript.",
+        githubLink: "https://afzalkhan377.github.io/index.html"
+
+    }
+   
 ];
 
-// Function to generate the assignment cards
+
 function loadAssignments() {
     const container = document.getElementById('assignments-container');
 
@@ -33,5 +27,5 @@ function loadAssignments() {
     });
 }
 
-// Call the function to load assignments when the page loads
+
 document.addEventListener('DOMContentLoaded', loadAssignments);
