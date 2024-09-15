@@ -3,7 +3,7 @@ const assignments = [
     {
         title: "Assignment 0: Git Instructions",
         description: "In this assignment, I created a basic personal website using HTML, CSS, and JavaScript.",
-        githubLink: "https://afzalkhan377.github.io/index.html"
+        githubLink: "https://github.com/Afzalkhan377/bu_afzalkhan377-assignment-0"
 
     }
    
