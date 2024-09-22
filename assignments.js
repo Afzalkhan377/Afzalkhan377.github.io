@@ -5,6 +5,12 @@ const assignments = [
         description: "In this assignment, I craeted a repo in which it takes two number adds them and retunrs to the command line",
         githubLink: "https://github.com/Afzalkhan377/bu_afzalkhan377-assignment-0"
 
+    },
+    {
+        title: "Assignment 1: Data Collection and Analysis",
+        description: "In this assignment, In this assignement we had to figure where to stand to use the elevator the quickest depending on the time of arrical of the elevator and the best distance to stand at. We calculated all of this using a dataset.",
+        githubLink: "https://github.com/Afzalkhan377/afzal-assignment-1"
+
     }
    
 ];
