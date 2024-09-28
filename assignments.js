@@ -32,6 +32,7 @@ function loadAssignments() {
             <h3>${assignment.title}</h3>
             <p>${assignment.description}</p>
             <a href="${assignment.githubLink}" target="_blank">Github Link</a>
+             <a href="${assignment.demoVideo}" target="_blank">Demo</a>  
         `;
 
         container.appendChild(assignmentDiv);
