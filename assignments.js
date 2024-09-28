@@ -13,7 +13,7 @@ const assignments = [
         title: "Assignment 2: KMeans Clustering Visualization Webpage",
         description: "In this assignment, I developed an interactive web application that demonstrates the KMeans clustering algorithm using various initialization methods.",
         githubLink: "https://github.com/Afzalkhan377/afzal-assignment-2",
-        demoVideo: "https://www.youtube.com/embed/gEPIkjzlZqQ"  // Note the embed link
+        demoVideo: "https://www.youtube.com/embed/gEPIkjzlZqQ"
     }
 ];
 
@@ -29,8 +29,6 @@ function loadAssignments() {
             demoContent = `
                 <iframe width="560" height="315" src="${assignment.demoVideo}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             `;
-        } else {
-            demoContent = `<a href="${assignment.demoVideo}" target="_blank">Demo</a>`;
         }
 
         assignmentDiv.innerHTML = `
