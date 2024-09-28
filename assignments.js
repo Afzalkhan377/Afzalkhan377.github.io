@@ -11,8 +11,13 @@ const assignments = [
         description: "In this assignment, In this assignement we had to figure where to stand to use the elevator the quickest depending on the time of arrical of the elevator and the best distance to stand at. We calculated all of this using a dataset.",
         githubLink: "https://github.com/Afzalkhan377/afzal-assignment-1"
 
-    }
+    },{
+    title: "Assignment 2: KMeans Clustering Visualization Webpage",
+        description: "In this assignment, I developed an interactive web application that demonstrates the KMeans clustering algorithm using various initialization methods.",
+        githubLink: "https://github.com/Afzalkhan377/afzal-assignment-2" ,
+        demoVideo: "https://www.youtube.com/embed/YOUR_VIDEO_ID"  
    
+}
 ];
 
 
