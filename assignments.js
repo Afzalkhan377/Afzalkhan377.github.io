@@ -14,7 +14,11 @@ const assignments = [
         description: "In this assignment, I developed an interactive web application that demonstrates the KMeans clustering algorithm using various initialization methods.",
         githubLink: "https://github.com/Afzalkhan377/afzal-assignment-2",
         demoVideo: "https://www.youtube.com/embed/gEPIkjzlZqQ"
-    }
+    },{
+    title: "Assignment 3: Singular Value Decomposition",
+    description: " We applied Singular Value Decomposition (SVD) as a preprocessing step to the MNIST dataset and train a logistic regression classifier. We compared the model performance and training time when using different levels of SVD for dimensionality reduction.",
+    githubLink: "https://github.com/Afzalkhan377/afzal-assignment-3"
+}
 ];
 
 function loadAssignments() {
