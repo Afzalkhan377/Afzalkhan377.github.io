@@ -18,6 +18,11 @@ const assignments = [
     title: "Assignment 3: Singular Value Decomposition",
     description: " We applied Singular Value Decomposition (SVD) as a preprocessing step to the MNIST dataset and train a logistic regression classifier. We compared the model performance and training time when using different levels of SVD for dimensionality reduction.",
     githubLink: "https://github.com/Afzalkhan377/afzal-assignment-3"
+},{
+title: "Assignment 4: Latent Semantic Analysis (LSA) Search Engine Webpage",
+description: "In this assignment, I developed an interactive web application that implements a basic search engine using Latent Semantic Analysis (LSA). The search engine takes a user’s query, perform LSA on a pool of documents, and returns the top documents based on cosine similarity",
+githubLink: "https://github.com/Afzalkhan377/afzal-assignment-4",
+demoVideo: "https://youtu.be/8vr4kUoB02o"
 }
 ];
 
