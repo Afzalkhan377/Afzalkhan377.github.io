@@ -22,7 +22,7 @@ const assignments = [
 title: "Assignment 4: Latent Semantic Analysis (LSA) Search Engine Webpage",
 description: "In this assignment, I developed an interactive web application that implements a basic search engine using Latent Semantic Analysis (LSA). The search engine takes a user’s query, perform LSA on a pool of documents, and returns the top documents based on cosine similarity",
 githubLink: "https://github.com/Afzalkhan377/afzal-assignment-4",
-demoVideo: "https://www.youtube.com/embed/8vr4kUoB02o" 
+demoVideo: "https://www.youtube.com/embed/eflAnfxeFKE"
 }
 ];
 
