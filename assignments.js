@@ -25,7 +25,7 @@ githubLink: "https://github.com/Afzalkhan377/afzal-assignment-4",
 demoVideo: "https://www.youtube.com/embed/eflAnfxeFKE"
 },
 {
-    title: "K-Nearest Neighbors Kaggle Competition",
+    title: "Assignment 5: K-Nearest Neighbors Kaggle Competition",
     description: "In this assignment, I implemented a K-Nearest Neighbors (KNN) model from scratch to predict customer churn for a bank. ",
     githubLink: "https://github.com/Afzalkhan377/afzal-assignment-5"
 
