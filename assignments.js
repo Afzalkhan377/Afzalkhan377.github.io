@@ -29,7 +29,10 @@ demoVideo: "https://www.youtube.com/embed/eflAnfxeFKE"
     description: "In this assignment, I implemented a K-Nearest Neighbors (KNN) model from scratch to predict customer churn for a bank. ",
     githubLink: "https://github.com/Afzalkhan377/afzal-assignment-5"
 
-}
+},{
+ title: "MidTerm ",
+    description: "In this competition we have to write a code that can predict the star rating associated with user reviews from Amazon Movie Reviews using the available features. ",
+    githubLink: "https://github.com/Afzalkhan377/CS506-Midterm"}
 ];
 
 function loadAssignments() {
