@@ -32,8 +32,16 @@ demoVideo: "https://www.youtube.com/embed/eflAnfxeFKE"
 },{
  title: "MidTerm ",
     description: "In this competition we have to write a code that can predict the star rating associated with user reviews from Amazon Movie Reviews using the available features. ",
-    githubLink: "https://github.com/Afzalkhan377/CS506-Midterm"}
+    githubLink: "https://github.com/Afzalkhan377/CS506-Midterm"},
+    {
+        title: "Assignment 6: Linear Regression Webpage",
+description: "he goal was to create an interactive webpage to demonstrate how modifying these parameters affects regression results, especially when there is no actual relationship between X and Y",
+githubLink: "https://github.com/Afzalkhan377/afzal-assignment-6",
+demoVideo: "https://www.youtube.com/embed/wHPcKAc2j3w"
+    }
 ];
+
+https://youtu.be/embed/wHPcKAc2j3w
 
 function loadAssignments() {
     const container = document.getElementById('assignments-container');
