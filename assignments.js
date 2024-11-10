@@ -38,6 +38,11 @@ demoVideo: "https://www.youtube.com/embed/eflAnfxeFKE"
 description: "he goal was to create an interactive webpage to demonstrate how modifying these parameters affects regression results, especially when there is no actual relationship between X and Y",
 githubLink: "https://github.com/Afzalkhan377/afzal-assignment-6",
 demoVideo: "https://www.youtube.com/embed/wHPcKAc2j3w"
+    },{
+        title: "Assignment 6: Hypothesis Testing and Confidence Intervals in Linear Regression",
+        description: "We extended our previous work from Assignment 6 to include hypothesis testing and confidence intervals through simulations. We enhance our interactive webpage to allow users to perform hypothesis tests on the slope or intercept of the regression line and generate confidence intervals based on simulations.",
+        githubLink: "https://github.com/Afzalkhan377/afzal-assignment-7",
+        demoVideo: "https://www.youtube.com/embed/5-enxG5JQUU"
     }
 ];
 
