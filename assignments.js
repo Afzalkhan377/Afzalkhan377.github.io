@@ -39,10 +39,18 @@ description: "he goal was to create an interactive webpage to demonstrate how mo
 githubLink: "https://github.com/Afzalkhan377/afzal-assignment-6",
 demoVideo: "https://www.youtube.com/embed/wHPcKAc2j3w"
     },{
-        title: "Assignment 6: Hypothesis Testing and Confidence Intervals in Linear Regression",
+        title: "Assignment 7: Hypothesis Testing and Confidence Intervals in Linear Regression",
         description: "We extended our previous work from Assignment 6 to include hypothesis testing and confidence intervals through simulations. We enhance our interactive webpage to allow users to perform hypothesis tests on the slope or intercept of the regression line and generate confidence intervals based on simulations.",
         githubLink: "https://github.com/Afzalkhan377/afzal-assignment-7",
         demoVideo: "https://www.youtube.com/embed/5-enxG5JQUU"
+    },{
+        
+            title: "Assignment 8: Logistic Regression",
+            description: "we will explore the effect of shifting clusters in a dataset on the parameters of a logistic regression model. ",
+            githubLink: "https://github.com/Afzalkhan377/afzal-Assignment8",
+            demoVideo: "https://www.youtube.com/embed/wx6fq7Xyq9c"
+            
+        
     }
 ];
 
