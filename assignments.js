@@ -51,7 +51,14 @@ demoVideo: "https://www.youtube.com/embed/wHPcKAc2j3w"
             demoVideo: "https://www.youtube.com/embed/wx6fq7Xyq9c"
             
         
-    }
+    },
+{ title: "Assignment 9: Neural Networks",
+            description: "In this assignment, we implemented and analyzed a simple neural network by visualizing its learned features, decision boundary, and gradients. The goal is to develop a deeper understanding of how a Feedforward Neural Network with one hidden layer operates and represents the input space during learning."
+
+
+            githubLink: "https://github.com/Afzalkhan377/afzal_Assignment9",
+            demoVideo: "https://www.youtube.com/embed/MYV08e6OMgo"
+            }
 ];
 
 https://youtu.be/embed/wHPcKAc2j3w
